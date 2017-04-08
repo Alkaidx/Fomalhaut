@@ -1,6 +1,6 @@
 # nodeJsStudy
 
-这是我在学习nodejs时写的三个小栗子
+这是我在学习nodejs时写一些小栗子
 
 1. 用nodejs实现的路由，其中使用了http 和url两个模块，实现了打印出输入url的功能:
     当输入的url为http://123.0.0.1:3000/teacher/六位数字
@@ -15,3 +15,5 @@
 3. 用nodejs实现的模版引擎，其中使用http，fs，以及第三方模块ejs。
     实现了类似php中的混编。
     可输入查看: http://127.0.0.1:3000/任意后缀
+
+4. to be continue。。。
