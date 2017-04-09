@@ -16,4 +16,6 @@
     实现了类似php中的混编。
     可输入查看: http://127.0.0.1:3000/任意后缀
 
-4. to be continue。。。
+4. nodejs的一个小爬虫，通过superagent，request，cheerio，以及fs，爬取煎蛋网的妹子图。
+
+5. To be continue...
