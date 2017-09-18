@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "demo",
   "main": "2-static.js.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "author": "alkaidx",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "formidable": "^1.1.1",
+    "mime": "^2.0.1"
+  }
 }

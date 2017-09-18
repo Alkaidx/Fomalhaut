@@ -18,4 +18,5 @@
 
 4. nodejs的一个小爬虫，通过superagent，request，cheerio，以及fs，爬取煎蛋网的妹子图。
 
-5. To be continue...
+5. 上传照片并显示的模块,其中使用相对巧妙的路由,模块化,回调等,模块除了内置的http,url,querystring还有formidable。
+    可输入查看: http://localhost:8888/start   
