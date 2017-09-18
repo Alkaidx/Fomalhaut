@@ -1,6 +1,6 @@
 # nodeJsStudy
 
-这是我在学习nodejs时写一些小栗子
+这是我在学习nodejs时写一些小栗子[笔记](https://github.com/Alkaidx/nodeJsStudy/blob/master/Note.md)
 
 1. 用nodejs实现的路由，其中使用了http 和url两个模块，实现了打印出输入url的功能:
     当输入的url为http://123.0.0.1:3000/teacher/六位数字
